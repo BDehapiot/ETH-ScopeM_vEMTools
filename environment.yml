@@ -18,3 +18,4 @@ dependencies:
     - napari[all]
     - napari-ome-zarr
     - ome-zarr
+    - natsort
